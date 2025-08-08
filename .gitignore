@@ -1,0 +1,6 @@
+# Ignorar entorno virtual local
+003_streamlit_split_and_summarize/
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
